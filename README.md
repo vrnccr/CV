@@ -1,14 +1,17 @@
+# 📝 Veronika Rybak's CV Repository
 
-# 📄 Veronika Rybak's CV Repository
+Hello and welcome! This repository is dedicated to showcasing my professional resume. Here you'll find an overview of my journey in data science, featuring key highlights from my education, skills, experiences, and projects. Feel free to browse and download!
 
-Welcome to the repository for Veronika Rybak's professional CV! This serves as a showcase of her academic journey, projects, and key skills in data science.
+## 📌 Overview
+- Insights into my academic background and professional growth 🛠️  
+- Notable data science projects and achievements 🚀  
+- A summary of my technical expertise and core skills 📘  
 
-## 🌟 Highlights
-- **Academic Achievements** 📚: Recognized for excellence in data science studies.
-- **Experience** 🛠️: Demonstrated skills in teaching and solving real-world data problems.
-- **Projects** 🚀: Hands-on involvement in challenges like VGI and hackathons.
+## 🤝 Connect with Me
+- **Outlook**: [veronika.rybak@stud.fuu.de] ✉️  
+- [LinkTree](https://linktr.ee/nfischer)
+- [LinkedIn](https://www.linkedin.com/in/veronika-rybak-55379a337/)
 
-## 🌐 Let's Connect
-- Email: veronika.rybak@stud.fuu.de ✉️
+Thank you for visiting! If you're interested in connecting or have any questions, I'd love to hear from you. 😊
+"""
 
-Feel free to explore, download, and reach out if you'd like to connect or collaborate!
